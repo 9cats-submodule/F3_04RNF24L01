@@ -70,8 +70,8 @@ void Error_Handler(void);
 #define T_MOSI_GPIO_Port GPIOC
 #define KEY2_Pin GPIO_PIN_0
 #define KEY2_GPIO_Port GPIOA
-#define NRF24L01_IRQ_Pin GPIO_PIN_1
-#define NRF24L01_IRQ_GPIO_Port GPIOA
+#define RNF24L01_IRQ_Pin GPIO_PIN_1
+#define RNF24L01_IRQ_GPIO_Port GPIOA
 #define RNF24L01_VCC1_Pin GPIO_PIN_2
 #define RNF24L01_VCC1_GPIO_Port GPIOA
 #define RNF24L01_VCC2_Pin GPIO_PIN_3
@@ -84,8 +84,8 @@ void Error_Handler(void);
 #define RNF24L01_MISO_GPIO_Port GPIOA
 #define RNF24L01_MOSI_Pin GPIO_PIN_7
 #define RNF24L01_MOSI_GPIO_Port GPIOA
-#define NRF24L01_CSN_Pin GPIO_PIN_4
-#define NRF24L01_CSN_GPIO_Port GPIOC
+#define RNF24L01_CSN_Pin GPIO_PIN_4
+#define RNF24L01_CSN_GPIO_Port GPIOC
 #define KEY0_Pin GPIO_PIN_5
 #define KEY0_GPIO_Port GPIOC
 #define LCD_D0_Pin GPIO_PIN_0
